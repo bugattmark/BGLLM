@@ -6,5 +6,6 @@ Base model: unsloth/Qwen2.5-7B-Instruct-bnb-4bit
 Fine-tuned with:
 V1: amphora/QwQ-LongCoT-130K
 
-Future improvements:
+Future improvements in V2:
 - Dataset Cleaning
+- Fine-tuning with Math Olympiad, coding and SWE-bench datasets
