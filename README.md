@@ -4,7 +4,7 @@ I fine tuned Qwen 7B as practice.
 Base model: unsloth/Qwen2.5-7B-Instruct-bnb-4bit
 
 Fine-tuned with:
-V1: amphora/QwQ-LongCoT-130K
+amphora/QwQ-LongCoT-130K
 
 In the future, I will:
 - Dataset Cleaning
